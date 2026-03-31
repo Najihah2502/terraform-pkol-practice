@@ -1,0 +1,21 @@
+resource "local_file" "pkol_module" {
+  filename = "${path.module}/pkol_module.txt"
+
+  content = <<EOT
+PKOL APPLICATION MODULE
+
+Flow:
+1. RFC reviews farmer application
+2. Submit / Hold / Reject
+3. HOU verification
+4. HOD approval
+5. Generate prepayment note
+
+Statuses:
+- Reviewed
+- Query
+- Verified
+- Approved
+- Rejected
+EOT
+}

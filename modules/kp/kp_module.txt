@@ -1,0 +1,13 @@
+KETUA PROJEK (KP) MANAGEMENT
+
+Functions:
+- Register KP
+- Evaluate KP
+- Terminate KP
+
+Workflow:
+1. Submit C3 form
+2. Generate C4 letter
+3. KP signs in AG60
+4. KP evaluation (C1/C2)
+5. KP termination generates C5

@@ -1,0 +1,11 @@
+AG60 MOBILE MODULE
+
+Functions:
+- Farmer confirms PKOL participation
+- Farmer accepts/rejects PKOL amount
+- Notifications for LSF & KP
+
+Statuses:
+- Agree PKOL
+- Reject PKOL
+- Confirm PKOL amount
